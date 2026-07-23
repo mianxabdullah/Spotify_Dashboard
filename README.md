@@ -6,7 +6,7 @@ A comprehensive Exploratory Data Analysis (EDA) project built using **Python**, 
 
 ## 📊 Dashboard Preview
 
-> <img src="images/Dashboard.png" width="100%">
+> <img src="dashboard/Spotify_Dashboard.png" width="100%">
 
 ---
 
@@ -37,10 +37,10 @@ A comprehensive Exploratory Data Analysis (EDA) project built using **Python**, 
 Spotify-Music-Analytics/
 │
 ├── data/
-│   └── spotify.csv
+│   ├── spotify-logo.png
+│   └── spotify-tracks.csv
 │
 ├── images/
-│   ├── Dashboard.png
 │   ├── correlation_heatmap.png
 │   ├── popularity_distribution.png
 │   ├── average_popularity_by_genre.png
@@ -51,10 +51,12 @@ Spotify-Music-Analytics/
 │   ├── distribution_of_audio_features.png
 │   └── top_10_artists.png
 │
-├── notebooks/
-│   └── Spotify_Analysis.ipynb
+├── dashboard/
+│   └── Spotify_Dashboard.png
 │
-├── dashboard.py
+├── notebooks/
+│   └── Spotify_dashboard.ipynb
+│
 ├── requirements.txt
 └── README.md
 ```
@@ -127,6 +129,6 @@ Spotify Songs Dataset (Kaggle)
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Abdullah Ayub**
 
 If you found this project interesting, feel free to ⭐ the repository.
